@@ -1,4 +1,4 @@
-import { describe, it, expect } from 'vitest';
+const { describe, it, expect } = require ('vitest');
 
 describe('sanity check', () => {
   it('true is true', () => {
